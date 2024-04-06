@@ -142,7 +142,7 @@ h3 {
     flex-direction: row;
     gap: 1rem;
     align-items: center;
-    justify-content: left;
+    justify-content: flex-start;
 }
 
 .card-user-info {
